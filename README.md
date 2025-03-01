@@ -1,6 +1,6 @@
 # **Scrum-AzureDevOps-Project – Step-by-Step Guide** 🚀  
 
-This guide walks you through setting up a **Scrum-based Azure DevOps Project**, including repository setup, work tracking, sprints, and CI/CD automation.
+Setting up a **Scrum-based Azure DevOps Project**, including repository setup, work tracking, sprints, and CI/CD automation.
 
 ---
 
